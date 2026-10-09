@@ -1,0 +1,4 @@
+opencv-python
+numpy
+# --exclude-person 사용 시에만 필요
+ultralytics

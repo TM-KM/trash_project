@@ -1,0 +1,37 @@
+# 영상 / 이미지 데이터 (용량이 크고 재배포 제한 가능)
+*.mp4
+*.avi
+*.mov
+*.mkv
+frame*.jpg
+f90.jpg
+miss*.jpg
+aaa.jpg
+butt.png
+butt*.jpg
+butt*.png
+
+# 실행 결과
+runs/
+sweep*/
+synth*/
+reviewed/
+datasets/
+candidates/
+
+# 모델 가중치
+*.pt
+*.onnx
+yolov8*.pt
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 기타
+.env
+.vscode/
+.idea/
+Thumbs.db
